@@ -1,0 +1,17 @@
+package fr.operateurs.console;
+
+public class OperateursApp {
+
+	public static void main(String[] args) {
+		
+		System.out.print("***** Application Opérateurs ***** \n\n Veuillez saisir le premier nombre...")
+		
+		
+		
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

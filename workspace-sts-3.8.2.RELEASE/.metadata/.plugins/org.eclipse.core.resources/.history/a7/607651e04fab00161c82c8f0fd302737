@@ -1,0 +1,57 @@
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<title>    Page test             </title>
+
+</head>
+
+
+<body>
+
+<p> Le manque d'inspiration est un fléau pour toute rédaction de texte.
+
+Appréciez les différentes propositions suivantes n'ayant aucun rapport les unes envers les autres:
+
+<ul>
+    <li> Catastrophe </li>
+    <li> Qualité </li>
+    <li> Neige </li>
+    <li> Réel </li>
+    <li> Zizanie </li>
+
+</ul>
+
+Je vous laisse libre de méditer sur cette fabuleuse invitation à l'évasion.
+
+Il est temps maintenant de méditer sur le "Sandwich Béarnais" qui marie les saveurs sucrés-salés et intègre de la confiture de fruits rouge et de l'ananas.
+Un délice!!
+
+oups
+
+<a href="http://www.google.fr">Link</a>
+</p>
+
+<img src="img_1.jpg"  alt=""/>
+
+<p>
+ajout 1
+
+</p>    
+
+<p>
+ajout 2
+
+</p>
+
+
+<p>
+ajout 3 et test fin
+sdfgh
+</p>
+
+</body>
+
+
+</html>
