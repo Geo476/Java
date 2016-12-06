@@ -1,0 +1,16 @@
+package dta.chat.view.console;
+import java.util.Scanner;
+
+public class ChatConsoleLoginView {
+
+	public void print() {
+		
+		System.out.println(" == Authentification == ");
+		
+		public Scanner scanner;
+		
+		
+	}
+	
+	
+}

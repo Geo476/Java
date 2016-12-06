@@ -1,0 +1,21 @@
+package dta.chat.view.console;
+import dta.chat.view.console.*;
+
+public class ChatConsoleView  extends ViewComposite{
+
+	private ChatConsoleTitleView titleView;
+	private ChatConsoleConversationView conversationView;
+	private ChatConsoleLoginView loginView;
+	
+	
+	
+public void print(){
+		
+		new ChatConsoleTitleView().print();
+		new ChatConsoleLoginView().print();
+		new ChatConsoleConversationView().print();
+		
+	};
+	
+	
+}

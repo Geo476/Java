@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1480950729009_3" label="pizzeria-project" name="pizzeria-project">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pizzeria-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pizzeria-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/pizzeria-console" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1479812681662_0" label="Window Working Set" name="Aggregate for window 1479812681662"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1479823821854_1" label="Window Working Set" name="Aggregate for window 1479823821854"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1479890103863_2" label="Window Working Set" name="Aggregate for window 1479890103863"/>
 </workingSetManager>

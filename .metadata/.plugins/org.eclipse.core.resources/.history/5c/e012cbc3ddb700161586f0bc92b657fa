@@ -1,0 +1,20 @@
+package dta.chat.model.observer;
+
+public abstract class  ChatObservable<T> {
+
+	public void addObserver(ChatObserver<T> observer){
+		
+		
+	}
+	
+	public void removeObserver(ChatObserver<T> observer){
+		
+	}
+	
+	
+	public void notifyObservers(T msg){
+		
+		
+	}
+	
+}

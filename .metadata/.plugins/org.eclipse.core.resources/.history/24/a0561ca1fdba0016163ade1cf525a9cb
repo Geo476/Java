@@ -1,0 +1,3 @@
+#Classe d'implémentation
+
+dao.impl=fr.pizzeria.dao.FichierDaoFactory

@@ -1,0 +1,41 @@
+package fr.pizzeria.ihm.action;
+import java.util.List;
+import java.util.Map;
+
+import fr.pizzeria.ihm.IhmUtil;
+import fr.pizzeria.dao.*;
+import fr.pizzeria.model.CategoriePizza;
+import fr.pizzeria.model.Pizza;
+
+public class ListPizzaGpCat extends Action{
+
+	private IhmUtil utils;
+
+	public ListPizzaGpCat(IhmUtil utils) {
+		super();
+		this.setDescription("5. Lister les pizzas par catégorie");
+		this.utils = utils;
+	}
+
+	@Override
+	public void do_action() {
+
+		
+		
+		Map<CategoriePizza, List<Pizza>> LiClass = findAllPizzas().stream();
+
+		
+	}
+	
+	@Override
+	public void describe_action() {
+		System.out.println(this.getDescription());
+		
+	}
+
+}
+
+	
+
+
+

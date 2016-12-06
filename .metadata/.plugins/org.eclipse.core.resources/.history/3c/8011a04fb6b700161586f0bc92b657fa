@@ -1,0 +1,22 @@
+package dta.chat;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import dta.chat.view.console.ChatConsoleView;
+import dta.chat.view.console.ViewComposite;
+
+public class ChatClientApp {
+
+	public static void main(String[] args) throws IOException {
+		
+		// Syntaxe Try-With-Resources
+		// Appelle automatiquement la méthode close de la variable
+		// Le type de la variable doit implémenter java.io.AutoCloseable
+		try(Scanner sc = new Scanner(System.in)) {
+			ViewComposite view = new ChatConsoleView(sc);
+			view.print();
+		}
+	}
+
+}

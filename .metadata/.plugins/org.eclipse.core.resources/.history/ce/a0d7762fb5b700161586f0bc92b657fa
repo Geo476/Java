@@ -1,0 +1,15 @@
+package dta.chat.view.console;
+import dta.chat.view.console.*;
+
+public class ChatConsoleView {
+
+public void print(){
+		
+		new ChatConsoleTitleView().print();
+		new ChatConsoleLoginView().print();
+		new ChatConsoleConversationView().print();
+		
+	};
+	
+	
+}

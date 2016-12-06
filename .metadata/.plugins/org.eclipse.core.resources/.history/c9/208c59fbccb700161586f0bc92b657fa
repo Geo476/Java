@@ -1,0 +1,21 @@
+package dta.chat;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import dta.chat.view.console.ChatConsoleView;
+import dta.chat.view.console.ViewComposite;
+
+public class ChatClientApp {
+
+	public static void main(String[] args) throws IOException {
+		
+		
+		try(Scanner sc = new Scanner(System.in)) {
+			final ChatConsoleview view = new ChatConsoleView(sc);
+			ViewComposite view = new ChatConsoleView(sc);
+			view.print();
+		}
+	}
+
+}

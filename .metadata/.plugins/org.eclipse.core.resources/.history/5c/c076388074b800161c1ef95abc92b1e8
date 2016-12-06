@@ -1,0 +1,18 @@
+package fr.pizzeria.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+
+
+
+
+public class DeletePizzaTest {
+
+	@Test
+	public void testDeletePizza() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,17 @@
+package dta.chat.view.console;
+
+public class ChatConsoleTitleView {
+
+	//public ChatConsoleTitleView ctitle;
+	//public ChatConsoleLoginView clogin;
+	//public ChatConsoleConversationView cconv;
+	
+	
+public void print(){
+		
+		System.out.println(" = CHAT APP = ");
+	
+}
+
+
+}

@@ -1,0 +1,15 @@
+package dta.chat.view.console;
+
+public abstract class ViewComposite {
+
+	
+	public void print_Title(){
+		
+		System.out.println(" = CHAT APP = ");
+		
+	};
+		
+		
+	
+	
+}

@@ -1,0 +1,5 @@
+package dta.chat.model.observer;
+
+public abstract class  ChatObservable<T> {
+
+}

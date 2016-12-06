@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="fr.pizza.exception.UpdatePizzaException"/>
+<fullyQualifiedTypeName name="fr.pizza.exception.DeletePizzaException"/>
+<fullyQualifiedTypeName name="fr.pizza.exception.SavePizzaException"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="fr.pizzeria.ihm.action.ListPizzaGpCat"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="fr.pizzeria.model.Pizza"/>
+<fullyQualifiedTypeName name="fr.pizzeria.model.CategoriePizza"/>
+<fullyQualifiedTypeName name="fr.pizzeria.ihm.action.ListPizzaChere"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="dta.chat.model.observer.ChatObservable"/>
+<fullyQualifiedTypeName name="dta.chat.model.ChatConversationModel"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Observer"/>
+<fullyQualifiedTypeName name="fr.pizzeria.ihm.action.DeletePizza"/>
+<fullyQualifiedTypeName name="java.util.ResourceBundle"/>
+<fullyQualifiedTypeName name="fr.pizzeria.dao.PizzaDao"/>
+</qualifiedTypeNameHistroy>

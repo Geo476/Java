@@ -1,0 +1,12 @@
+package dta.chat.view.console;
+
+public class ChatConsoleView {
+
+public void print(){
+		
+		System.out.println(" = CHAT APP = ");
+		
+	};
+	
+	
+}
